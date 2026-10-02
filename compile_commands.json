@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/iris/Projects/vll/build",
+  "command": "/usr/bin/clang++ -I/home/iris/Projects/vll/include -O2 -g -DNDEBUG -std=gnu++26 -fcolor-diagnostics -Wall -Werror -Weverything -Wno-c99-designator -Wno-gnu-case-range -Wno-c++98-compat -Wno-switch-enum -Wno-switch-default -Wno-c++23-extensions -Wno-c++98-compat-pedantic -Wno-reserved-module-identifier -fno-exceptions -ferror-limit=999999 -fdiagnostics-color -std=c++26 @CMakeFiles/a.out.dir/src/Seq.cpp.o.modmap -o CMakeFiles/a.out.dir/src/Seq.cpp.o -c /home/iris/Projects/vll/src/Seq.cpp",
+  "file": "/home/iris/Projects/vll/src/Seq.cpp",
+  "output": "/home/iris/Projects/vll/build/CMakeFiles/a.out.dir/src/Seq.cpp.o"
+}
+]
